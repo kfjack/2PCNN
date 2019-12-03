@@ -4,6 +4,11 @@ Demonstration code for two-particle correlation neural network (2PCNN).
 See the reference for more information:
 https://arxiv.org/abs/1911.02020
 
+## Tested environment:
+Python 3.7.1 
+Keras 2.2.5
+TensorFlow 1.13.1
+
 ## File descriptions:
 * prototype_train.py
 > a code to construct a 2PCNN prototype model with only energy flow information (pt, eta, phi for 2 particles), 
