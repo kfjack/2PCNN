@@ -5,9 +5,9 @@ See the reference for more information:
 https://arxiv.org/abs/1911.02020
 
 ## Tested environment:
-Python 3.7.1 
-Keras 2.2.5
-TensorFlow 1.13.1
+- Python 3.7.1 
+- Keras 2.2.5
+- TensorFlow 1.13.1
 
 ## File descriptions:
 * prototype_train.py
