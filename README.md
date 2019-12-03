@@ -22,5 +22,7 @@ https://drive.google.com/drive/u/0/folders/1HojGLS_ODr7E7tndy2vz0fxRB2N10VAR
 * fatjet_t_match_vz_to_tt.txt.gz
 * fatjet_w_match_vz_to_ww.txt.gz
 * fatjet_q_match_vz_to_qq.txt.gz
-> The files are simple gziped text file (no needs of unzip). See the parse_jet_data() function in the demo code 
-> for exact data format.
+> Samples for Top/W/quark jets, with anti-Kt algorithm of R=0.8. 
+> The samples were generated from a 2 TeV Z'->tt/WW/qq process and processed with Delphes for detector modeling. 
+> These are simple gziped text files (no needs of unzip). See the parse_jet_data() function in the demo code 
+> for how to read the data.
